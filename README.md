@@ -29,4 +29,4 @@ The project consists of the following files:
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any suggestions or improvements.
 
 ## License
-This project is open-source and available under the MIT License.
+This project is open-source and available under the MIT License.# Task Management App Landing Page
